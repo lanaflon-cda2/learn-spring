@@ -11,7 +11,7 @@ public class SavingsAccount implements Account {
 	private User user;
 	
 	public  SavingsAccount() {
-		// TODO Auto-generated constructor stub
+		
 	}
 	
 	// Autowire the dependency - Constructor Autowire

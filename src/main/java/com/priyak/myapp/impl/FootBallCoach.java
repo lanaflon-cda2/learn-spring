@@ -39,7 +39,7 @@ public class FootBallCoach implements Coach {
 
 	@Override
 	public String getDailyWorkout() {
-		// TODO Auto-generated method stub
+		
 		return "Penalty practice for 50 minutes";
 	}
 	
